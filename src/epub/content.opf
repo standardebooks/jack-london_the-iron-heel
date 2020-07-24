@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jack-london/the-iron-heel</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-07-24T21:27:39Z</dc:date>
+		<meta property="dcterms:modified">2020-07-24T21:27:39Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -51,15 +51,17 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh2008110773</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">In the far future, a long-lost manuscript describes how the United States descended into a tyranny ruled by oligarchic plutocrats.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;The Iron Heel&lt;/i&gt; is some of the earliest dystopian fiction of the 20th century. The novel is framed as a presentation of the long-lost “Everhard Manuscript,” a document written by the socialist revolutionary Avis Everhard around 1932. The manuscript is discovered in the year 2600, and is introduced and annotated by a far-future commentator.&lt;/p&gt;
+			&lt;p&gt;In it, Avis tells of how the United States was slowly overcome by a group of oligarchs, the Iron Heel, who use their monopoly power to systematically bankrupt American small businesses and farmers in order to cement their control over the capitalist system. Eventually, the U.S. Army is brought under the control of the oligarchs, who entrench a brutal system of repression against the working class. Everhard, her husband, and a scrappy group of socialists fight valiantly against the Iron Heel, though we learn in the foreword that they don’t survive the fight, and die as martyrs.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/jack-london"&gt;London&lt;/a&gt; uses the narrative as a vehicle for espousing his socialist views, sometimes to the detriment of the plot, and even going so far as to plagiarize an essay by Frank Harris nearly verbatim—issues which caused the work to earn scant critical praise. Despite this, it sold over 50,000 copies in hardcover and influenced a generation of activists, including George Orwell, Harry Bridges, and Frederic Tuten.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1164</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_iron_heel/q79EAAAAYAAJ</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">77798</meta>
+		<meta property="se:reading-ease.flesch">73.47</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Iron_Heel</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jack-london_the-iron-heel</meta>
 		<dc:creator id="author">Jack London</dc:creator>
