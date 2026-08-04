@@ -52,7 +52,7 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh2008110773</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>In the far future, a long-lost manuscript describes how the United States descended into a tyranny ruled by oligarchic plutocrats.</dc:abstract>
+		<meta property="schema:abstract">In the far future, a long-lost manuscript describes how the United States descended into a tyranny ruled by oligarchic plutocrats.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Iron Heel&lt;/i&gt; is some of the earliest dystopian fiction of the 20th century. The novel is framed as a presentation of the long-lost “Everhard Manuscript,” a document written by the socialist revolutionary Avis Everhard around 1932. The manuscript is discovered in the year 2600, and is introduced and annotated by a far-future commentator.&lt;/p&gt;
 			&lt;p&gt;In it, Avis tells of how the United States was slowly overcome by a group of oligarchs, the Iron Heel, who use their monopoly power to systematically bankrupt American small businesses and farmers in order to cement their control over the capitalist system. Eventually, the U.S. Army is brought under the control of the oligarchs, who entrench a brutal system of repression against the working class. Everhard, her husband, and a scrappy group of socialists fight valiantly against the Iron Heel, though we learn in the foreword that they don’t survive the fight, and die as martyrs.&lt;/p&gt;
