@@ -32,11 +32,11 @@
 		<meta property="file-as" refines="#title">Iron Heel, The</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
 		<dc:subject id="subject-2">Political fiction</dc:subject>
-		<dc:subject id="subject-3">Dystopias -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Oligarchy -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Socialism -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Revolutionaries -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Revolutions -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Dystopias--Fiction</dc:subject>
+		<dc:subject id="subject-4">Oligarchy--Fiction</dc:subject>
+		<dc:subject id="subject-5">Socialism--Fiction</dc:subject>
+		<dc:subject id="subject-6">Revolutionaries--Fiction</dc:subject>
+		<dc:subject id="subject-7">Revolutions--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
